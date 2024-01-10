@@ -1,1 +1,2 @@
 This is an example
+With a new line!
